@@ -13,6 +13,9 @@ This is a simple Flutter Tic-Tac-Toe game project that allows two players to tak
 
 Follow these steps to get the Tic-Tac-Toe game up and running on your local machine.
 
+## Mockup
+![Tic_Tac_Toe](./mockup.png)
+
 ### Prerequisites 📋
 
 - Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed on your system.
